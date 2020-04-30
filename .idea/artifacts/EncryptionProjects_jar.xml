@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EncryptionProjects:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EncryptionProjects_jar</output-path>
+    <root id="archive" name="EncryptionProjects.jar">
+      <element id="module-output" name="EncryptionProjects" />
+    </root>
+  </artifact>
+</component>
